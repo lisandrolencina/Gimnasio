@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+#menu li a{
+    padding-left: 2em;
+}
+
+.redes2{
+    width: 40px;
+    margin: 10px 5px;
+}
+
+
+
+#logo{
+    background: url(../img/logo.png) no-repeat center center;
+    width: 40px;
+    height: 40px;
+    font-size: 0;
+    position: absolute;
+    top:20px;
+    left: 30px;
+    z-index: 10;
+}
+
+#planes{
+    
+    margin-block: 80px;
+    
+}
+.titulo-clases{
+    margin: 20px;
+    color: orange;
+}
+
+.planes1{
+    height: 80px;
+    color: orange;
+}
+.formu{
+    color: white;
+}
+#Clientes{
+    color: orange;
+}
+
+.titulo-nosotros{
+    color: orange;
+}
+
+h2{
+    font-family: 'Kanit', sans-serif;
+    text-transform: uppercase;
+}
